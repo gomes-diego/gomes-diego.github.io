@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Diego Alejandro Gomes"
+  favicon: "images/mondrian_icon.png"
+  
+  page-footer: 
+    center: |
+      [Contact me](mailto:diego.gomes.data@gmail.com)
+    left: |
+      Made with [Quarto](https://quarto.org/)
+    right: |
+      [Githib Code Repo](https://github.com/gomes-diego)
+    background: "#F8F5F0"
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+     # - text: Blog
+     #   href: custom_projects.qmd
+    right:
+      # - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: linkedin
+        href: https://linkedin.com
+      - icon: envelope
+        href: mailto:diego.gomes.data@gmail.com
+    background: "#F8F5F0"
+format:
+  html:
+    theme: 
+      light: sandbox
+      # dark: [sandbox, theme_dark_custom.scss]
+    code-link: true
+    code-fold: show
+    css: styles.css
+    highlight-style: github
+
+editor: visual
+

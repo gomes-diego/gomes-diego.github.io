@@ -1,0 +1,15 @@
+---
+title: "Post with plot"
+author: "Diego Gomes"
+date: "2024-06-09"
+categories: [testing, draft, data viz]
+image: "pigs.png"
+draft: false
+---
+Placeholder to figure out how posts work
+
+
+
+```{r}
+plot(mtcars$mpg)
+```

@@ -1,0 +1,17 @@
+{
+  "hash": "4d19fd2a689e6fe6bf745c19e89acfab",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Post with plot\"\nauthor: \"Diego Gomes\"\ndate: \"2024-06-09\"\ncategories: [testing, draft, data viz]\nimage: \"pigs.png\"\ndraft: false\n---\n\nPlaceholder to figure out how posts work\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(mtcars$mpg)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

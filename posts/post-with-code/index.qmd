@@ -1,0 +1,14 @@
+---
+title: "Dermatological Diversity Visualized with UMAP"
+author: "Diego Gomes"
+date: "2024-06-09"
+categories: [medicine, AI, data viz]
+image: "snowden_skin.png"
+draft: false
+---
+
+Leveraging the Diverse Dermatology Images (DDI) dataset from the Stanford Center for AI in Medicine & Imaging
+
+```{r}
+1 + 1
+```

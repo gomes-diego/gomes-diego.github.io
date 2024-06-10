@@ -1,0 +1,29 @@
+---
+title: "About"
+image: profile.png
+about:
+  id: hero-heading
+  template: solana
+  links:
+    - icon: linkedin
+      href: https://linkedin.com
+    - icon: github
+      href: https://github.com/gomes-diego
+---
+
+::: {#hero-heading}
+👋 Hi, I am a data scientist with a passion for machine learning & data visualization. My interests include analyzing high dimensional data in public health, computer vision, and social science. My hobbies include photography and reading.
+
+##Education
+
+KU Leuven, Belgium \| M.Sc. Statistics & Data Science, Biometrics *cum laude* \| September 2023
+
+University of California, San Diego \| San Diego, CA \| B.S. Cognitive Science w/specialization in Neuroscience \| June 2017
+
+##Experience
+
+**SoundTalks N.V.** \| Data Analyst (Power BI) \| Jan 2024 - present
+
+**Adolescent Brain Cognitive Development (ABCD) Study** \| Senior Research Associate \| Jan 2018 - September 2021
+
+:::

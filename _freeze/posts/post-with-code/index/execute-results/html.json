@@ -1,0 +1,15 @@
+{
+  "hash": "a83e9447145b68bbbdaf4ceda2ce6ab0",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Dermatological Diversity Visualized with UMAP\"\nauthor: \"Diego Gomes\"\ndate: \"2024-06-09\"\ncategories: [medicine, AI, data viz]\nimage: \"snowden_skin.png\"\ndraft: false\n---\n\n\nLeveraging the Diverse Dermatology Images (DDI) dataset from the Stanford Center for AI in Medicine & Imaging\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
