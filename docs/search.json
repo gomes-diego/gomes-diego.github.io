@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Diego Alejandro Gomes",
     "section": "",
-    "text": "👋 Hi, I am a data scientist with a passion for machine learning & data visualization. I am interested in analyzing high dimensional data for public health, computer vision, and social science using Python/R. My hobbies are photography and reading.\n\n\nKU Leuven | Belgium 🇧🇪 | M.Sc. Statistics & Data Science, Biometrics cum laude | September 2023\nUniversity of California, San Diego | San Diego, CA 🇺🇸 | B.S. Cognitive Science w/specialization in Neuroscience | June 2017\n\n\n\nSoundTalks N.V. | Data Analyst Power BI | Jan 2024 - present\nAdolescent Brain Cognitive Development (ABCD) Study | Senior Research Associate | Jan 2018 - September 2021"
+    "text": "👋 Hi, I am a data scientist with a passion for machine learning & data visualization. I am interested in analyzing high dimensional data for public health, computer vision, and social science using Python/R. My hobbies are photography and reading.\n\n\nKU Leuven | Belgium 🇧🇪 | M.Sc. Statistics & Data Science, Biometrics cum laude | September 2023\nUniversity of California, San Diego | San Diego, CA 🇺🇸 | B.S. Cognitive Science w/specialization in Neuroscience | June 2017\n\n\n\nSoundTalks N.V. | Data Analyst (Power BI) | Jan 2024 - present\nAdolescent Brain Cognitive Development (ABCD) Study | Senior Research Associate | Jan 2018 - September 2021"
   },
   {
     "objectID": "index.html#education",
@@ -18,6 +18,62 @@
     "href": "index.html#experience",
     "title": "Diego Alejandro Gomes",
     "section": "",
-    "text": "SoundTalks N.V. | Data Analyst Power BI | Jan 2024 - present\nAdolescent Brain Cognitive Development (ABCD) Study | Senior Research Associate | Jan 2018 - September 2021"
+    "text": "SoundTalks N.V. | Data Analyst (Power BI) | Jan 2024 - present\nAdolescent Brain Cognitive Development (ABCD) Study | Senior Research Associate | Jan 2018 - September 2021"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Dermatological Diversity Visualized with UMAP\n\n\n\nmedicine\n\n\nAI\n\n\ndata viz\n\n\n\n\n\n\n\nDiego Gomes\n\n\nJun 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost with plot\n\n\n\ntesting\n\n\ndraft\n\n\ndata viz\n\n\n\n\n\n\n\nDiego Gomes\n\n\nJun 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Locust Swarms\n\n\n\nunsupervised learning\n\n\n\n\n\n\n\nDiego Gomes\n\n\nJun 6, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Predicting Locust Swarms",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Dermatological Diversity Visualized with UMAP",
+    "section": "",
+    "text": "Leveraging the Diverse Dermatology Images (DDI) dataset from the Stanford Center for AI in Medicine & Imaging\n\n\nCode\n1 + 1\n\n\n[1] 2"
+  },
+  {
+    "objectID": "custom_projects.html",
+    "href": "custom_projects.html",
+    "title": "Diego Alejandro Gomes",
+    "section": "",
+    "text": "::: {.column width = “55%”} Description 1\n\n:::{.column width = “5%”} :::\n:::{.column width = “40%”} Image 1 :::\n::::"
+  },
+  {
+    "objectID": "custom_projects.html#quarto-blog---data-visualizations---animations-and-interactivity",
+    "href": "custom_projects.html#quarto-blog---data-visualizations---animations-and-interactivity",
+    "title": "Diego Alejandro Gomes",
+    "section": "",
+    "text": "::: {.column width = “55%”} Description 1\n\n:::{.column width = “5%”} :::\n:::{.column width = “40%”} Image 1 :::\n::::"
+  },
+  {
+    "objectID": "custom_projects.html#shiny-flex-dashboard---sales-forecasting-and-anomaly-detection",
+    "href": "custom_projects.html#shiny-flex-dashboard---sales-forecasting-and-anomaly-detection",
+    "title": "Diego Alejandro Gomes",
+    "section": "Shiny Flex Dashboard - Sales forecasting and anomaly detection",
+    "text": "Shiny Flex Dashboard - Sales forecasting and anomaly detection\n\n::: {.column width = “40%”} Image 2\n\n:::{.column width = “5%”} :::\n:::{.column width = “55%”} Description 2 :::\n::::"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "👋 Hi, I am a data scientist with a passion for machine learning & data visualization. My interests include analyzing high dimensional data in public health, computer vision, and social science. My hobbies include photography and reading.\n##Education\nKU Leuven, Belgium | M.Sc. Statistics & Data Science, Biometrics cum laude | September 2023\nUniversity of California, San Diego | San Diego, CA | B.S. Cognitive Science w/specialization in Neuroscience | June 2017\n##Experience\nSoundTalks N.V. | Data Analyst (Power BI) | Jan 2024 - present\nAdolescent Brain Cognitive Development (ABCD) Study | Senior Research Associate | Jan 2018 - September 2021"
+  },
+  {
+    "objectID": "posts/postwithplot/index.html",
+    "href": "posts/postwithplot/index.html",
+    "title": "Post with plot",
+    "section": "",
+    "text": "Placeholder to figure out how posts work\n\n\nCode\nplot(mtcars$mpg)"
   }
 ]
