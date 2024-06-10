@@ -47,6 +47,7 @@ format:
     code-summary: "Show the code"
     code-block-bg: true
     code-block-border-left: "#31BAE9"
+    code-tools: false
     css: styles.css
 
 editor: visual
