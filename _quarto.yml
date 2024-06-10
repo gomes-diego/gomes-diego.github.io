@@ -39,13 +39,13 @@ website:
 format:
   html:
     theme: 
-      light: sandbox
-      # dark: [sandbox, theme_dark_custom.scss]
-    highlight-style: arrow
+      light: default
+      dark: [default, theme_dark_custom.scss]
+    highlight-style: gruvbox
     code-link: true
     code-fold: show
     code-summary: "Show the code"
-    code-block-bg: true
+    code-block-bg: false
     code-block-border-left: "#31BAE9"
     code-tools: false
     css: styles.css
