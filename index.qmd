@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Diego Alejandro Gomes"
 image: profile_pic.jpeg
 about:
   id: hero-heading
