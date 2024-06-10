@@ -30,7 +30,7 @@ website:
     right:
       # - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/gomes-diego
       - icon: linkedin
         href: https://linkedin.com
       - icon: envelope
@@ -41,10 +41,13 @@ format:
     theme: 
       light: sandbox
       # dark: [sandbox, theme_dark_custom.scss]
+    highlight-style: arrow
     code-link: true
     code-fold: show
+    code-summary: "Show the code"
+    code-block-bg: true
+    code-block-border-left: "#31BAE9"
     css: styles.css
-    highlight-style: github
 
 editor: visual
 
