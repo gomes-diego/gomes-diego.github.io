@@ -12,18 +12,18 @@ about:
 ---
 
 ::: {#hero-heading}
-👋 Hi, I am a data scientist with a passion for machine learning & data visualization. My interests include analyzing high dimensional data in public health, computer vision, and social science. My hobbies include photography and reading.
+👋 Hi, I am a data scientist with 5+ years of experience analyzing large-scale and high-dimensional data. My interests include applying machine learning and data visualizing techniques towards health, computer vision, and social science.
 
 ##Education
 
-KU Leuven, Belgium \| M.Sc. Statistics & Data Science, Biometrics *cum laude* \| September 2023
+KU Leuven \| Leuven, Belgium \|  M.Sc. Statistics & Data Science, Biometrics *cum laude* \| Sep 2023
 
-University of California, San Diego \| San Diego, CA \| B.S. Cognitive Science w/specialization in Neuroscience \| June 2017
+University of California, San Diego \| San Diego, CA \| B.Sc. Cognitive Science w/Specialization in Neuroscience \| Jun 2017
 
 ##Experience
 
 **SoundTalks N.V.** \| Data Analyst (Power BI) \| Jan 2024 - present
 
-**Adolescent Brain Cognitive Development (ABCD) Study** \| Senior Research Associate \| Jan 2018 - September 2021
+**Adolescent Brain Cognitive Development (ABCD) Study** \| Senior Research Associate \| Jan 2018 - Sep 2021
 
 :::

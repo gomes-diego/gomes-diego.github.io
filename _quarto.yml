@@ -39,8 +39,8 @@ website:
 format:
   html:
     theme: 
-      light: default
-      dark: [default, theme_dark_custom.scss]
+      light: sandbox
+      # dark: [default, theme_dark_custom.scss]
     highlight-style: gruvbox
     code-link: true
     code-fold: show
