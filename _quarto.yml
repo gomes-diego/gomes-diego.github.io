@@ -6,13 +6,13 @@ website:
   title: "Diego Gomes"
   favicon: "images/mondrian_icon.png"
   
-  page-footer: 
+  page-footer:
     center: |
-      [Contact me](mailto:diego.gomes.data@gmail.com)
+      [Contact: Diego Gomes](mailto:diego.gomes.data@gmail.com)
     left: |
       Made with [Quarto](https://quarto.org/)
     right: |
-      [Githib Code Repo](https://github.com/gomes-diego)
+      [GitHub](https://github.com/gomes-diego) | [LinkedIn](https://linkedin.com) | [Email](mailto:diego.gomes.data@gmail.com)
     background: "#F8F5F0"
   search:
     location: navbar
