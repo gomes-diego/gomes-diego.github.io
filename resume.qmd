@@ -1,3 +1,5 @@
-<div class="responsive-iframe">
-  <iframe src="DiegoGomes_Resume_Github_2024.pdf" frameborder="0"></iframe>
-</div>
+<iframe
+  width = "800"
+  height = "1600"
+  src="DiegoGomes_Resume_Github_2024.pdf">
+</iframe>
